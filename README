@@ -1,0 +1,4 @@
+Crude tool for measuring memory of your Ruby objects...
+
+Taken from Robert Klemme's pastie:
+http://www.pastie.org/217131
